@@ -1,0 +1,19 @@
+{
+    "dataSource":"101",
+    "macAddress":"a2",
+    "createtime": "2020-01-17 10-20-12",
+    "temperature": "30",
+    "temperatureUnit": "C",
+    "dataSourceLocation": {
+        "latitude": 0,
+        "longitude": 0
+    },
+    "keyInput": {
+        "keyId": "4",
+        "keyName": "noaction"
+    },
+    "inputcommand": {
+        "timeInterval": 900000,
+        "function": "STOP"
+    }
+}
